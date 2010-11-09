@@ -1,0 +1,3 @@
+This set of programs provide familiarisation of msp430 instruction set.
+Also provide an introduction of working of peripheral devices such as watch
+dog timer and another timer A and also writing interrupt service routine.
